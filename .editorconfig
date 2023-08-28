@@ -6,7 +6,7 @@
 # characters
 [*.{js,ts,tsx}]
 indent_style = space
-indent_size = 2
+indent_size = 3
 end_of_line = lf
 max_line_length = 100
 
